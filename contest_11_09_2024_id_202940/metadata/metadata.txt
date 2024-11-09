@@ -2,3 +2,7 @@ name: Sam IT Global
 url: https://official.contest.yandex.ru/contest/63607
 login: 
 parol: 
+
+{
+    'B': 'K. Nokia Game'
+}
